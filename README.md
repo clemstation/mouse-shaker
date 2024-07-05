@@ -16,6 +16,33 @@ To download and install Mouse Shaker on your Mac:
 2. Launch Mouse Shaker from your Applications folder or Dock.
 3. Choose your shortcut key and jiggle your cursor now!
 
+## Troubleshooting FAQ
+
+### What are the system requirements for the app?
+MacOS 10.13 and above.
+
+### What is Mouse Shaker’s privacy policy?
+We don’t collect any data.
+
+### Why is it asking me to give permissions?
+In order to simulate clicks and move the cursor on your behalf, you need to give the app the accessibility permissions. Go to System Preferences -> Security & Privacy -> Privacy -> Accessibility -> Check Mouse Shaker app.
+
+### Why is the click not working?
+In order for the click to work, you need to make sure to give the app the accessibility privileges. Please, see question above for how to do that.
+
+### Why are there different modes?
+Zen is obviously the less intrusive as it doesn’t move the cursor and simulates activity, very much like the well-known app on Windows. Unfortunately, some apps got a little fancier at detecting activity and sometimes check if the cursor has moved or if a click occurred. So we have 3 modes to cover all cases.
+
+### Where does the click occur?
+Click occurs wherever the cursor was left at or at a defined location. Go to Preferences to configure it your way.
+
+### Can I use my computer while Mouse Shaker is enabled?
+Yes. The app will only simulate activity if it detects inactivity.
+
+### How frequently is activity simulated?
+Default is every 30s but you can change the frequency in the Preferences.
+
+
 ## Issues and Feature requests
 
 Go to the Issues tab to post bugs, feature requests, or questions.
