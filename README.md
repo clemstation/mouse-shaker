@@ -1,5 +1,4 @@
-# Mouse Shaker: The best Mouse Jiggler on MacOS
-
+# Mouse Shaker Community
 ![logo](https://github.com/clemstation/mouse-shaker/blob/main/mouse-shaker-logo.png)
 
 ## About
@@ -17,9 +16,6 @@ To download and install Mouse Shaker on your Mac:
 3. Choose your shortcut key and jiggle your cursor now!
 
 ## Troubleshooting FAQ
-
-### What are the system requirements for the app?
-MacOS 10.13 and above.
 
 ### What is Mouse Shaker’s privacy policy?
 We don’t collect any data.
