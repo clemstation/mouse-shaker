@@ -1,4 +1,4 @@
-# Mouse Shaker: Mouse Jiggler to help people judge you not by your online status, but by your work!
+# Mouse Shaker: The best Mouse Jiggler on MacOS
 
 ![logo](https://github.com/clemstation/mouse-shaker/blob/main/mouse-shaker-logo.png)
 
