@@ -5,7 +5,7 @@
 
 You know you do the work well. But you can't stay in front of your computer every minute of the day and you are afraid people will judge you. Fear no more!
 
-Mouse Shaker is a mouse jiggler for macOS packed with lots of features! Jiggle your cursor with the press of a shortcut, set timers, and best of all, no bulky device or extra cable on your desk... it all happens inside your computer!
+[Mouse Shaker](https://mouseshaker.clemstation.com/]) is a mouse jiggler for macOS packed with lots of features! Jiggle your cursor with the press of a shortcut, set timers, and best of all, no bulky device or extra cable on your desk... it all happens inside your computer!
 
 ## Get Started with Mouse Shaker
 
@@ -41,7 +41,7 @@ Default is every 30s but you can change the frequency in the Preferences.
 
 ## Issues and Feature requests
 
-Go to the Issues tab to post bugs, feature requests, or questions.
+Go to the [Issues](https://github.com/clemstation/mouse-shaker/issues) tab to post bugs, feature requests, or questions.
 
 Feel free to comment on any existing feature requests that you also want to request. The more requests, the more likely I'll do it.
 
